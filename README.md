@@ -26,4 +26,5 @@ The goal is to evaluate how batsmen perform at Chepauk across different match ph
 ## **How to Run the Notebook**  
 1. Clone this repository:  
    ```sh
-  [ git clone https://github.com/yourusername/your-repository-name.git](https://github.com/Jeetibp/Chepauk-vs-CSK-Batting-Stats/edit/main/README.md)
+[  [ git clone https://github.com/yourusername/your-repository-name.git](https://github.com/Jeetibp/Chepauk-vs-CSK-Batting-Stats/edit/main/README.md)
+](https://github.com/Jeetibp/Chepauk-vs-CSK-Batting-Stats/blob/main/Batting_Analysis_in_Chepauk_agst_csk.ipynb)
